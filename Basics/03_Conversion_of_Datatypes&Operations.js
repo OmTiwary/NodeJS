@@ -31,5 +31,27 @@ let NumtoString = String(Num);
 //***********************OPERATIONS**********************//
 
 let value = 3;
-let negVlaue = value;
-console.log(value);
+let negvalue = -value;
+// console.log(negvalue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2); //This means 2 as power
+// console.log(2**3); //This is power 3
+
+// console.log("2" + 2);
+// console.log(2 + "2");
+// console.log(2 + "2" + 2);
+// console.log(2 + 2 + "2"); //First add then add the String.
+// console.log("2" + "2" + 2); //If first one is String , then all will be counted as string.
+
+// console.log(true);
+// console.log(+true);
+
+// let num1 = num2 = num3 = 2+3;
+// console.log(num2);
+
+// let counter = 100;
+// counter--;    // Prefix = ++counter , Postfix = counter++
+// console.log(counter);
